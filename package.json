@@ -1,6 +1,6 @@
 {
   "name": "pokemon-player-escape",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if player escape from battle with wild Pokemon and get probability of escaping",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/pokemon-player-escape.git",

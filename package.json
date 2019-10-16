@@ -18,8 +18,8 @@
     "math"
   ],
   "devDependencies": {
-    "ava": "^0.20.0",
-    "xo": "^0.18.2"
+    "ava": "0.20.0",
+    "xo": "0.18.2"
   },
   "xo": {
     "space": true,
